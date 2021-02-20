@@ -41,3 +41,5 @@ going into production - then push your changes to the master branch. After you h
 All the best and happy coding,
 
 The Choozle Team
+
+![Alt text](Designs/Screenshot.png?raw=true "Title")
